@@ -3,3 +3,8 @@ data/ml_questions.csv
 data/python_25k.csv
 data/python_500k.csv
 data/qa_python_ds_ml.csv
+data/gemma_331k.csv
+data/gemma_506k.csv
+gemma_41k.keras
+training/__pycache__
+
